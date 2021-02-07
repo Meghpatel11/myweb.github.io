@@ -6,7 +6,7 @@
 
 img{
     padding: 50px;
-    
+    margin: 30px;
 }
 p{
     margin-top: auto;
@@ -15,9 +15,8 @@ p{
     font-size: 18px;
     font-weight: bold;
     position: fixed;
-    top: 165px;
+    top: 215px;
     text-align: center;
-
 }
 
 
@@ -27,12 +26,13 @@ button{
     font-weight: bold;
     background: #3ba756;
     width: 140px;
-    padding: 5px;
+    padding: 7px;
     margin: 5px; 
     cursor: pointer;
     text-transform: uppercase;
     color: whitesmoke;
-    border-radius: 5px;
+    border-radius: 10px;
+    border-color:rgb(26, 25, 25);
     box-shadow: 0 0 10px rgba(35, 248, 6, 0.1);
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s;
@@ -41,7 +41,7 @@ button{
 }
 
 button:hover, button:focus, button:active{
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px rgba(121, 134, 136, 0.671);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
