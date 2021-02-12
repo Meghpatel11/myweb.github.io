@@ -5,7 +5,7 @@
 }
 
 img{
-    padding: 50px;
+    padding: 80px;
     margin: 30px;
 }
 p{
@@ -15,7 +15,7 @@ p{
     font-size: 18px;
     font-weight: bold;
     position: fixed;
-    top: 215px;
+    top: 340px;
     text-align: center;
 }
 
@@ -27,7 +27,7 @@ button{
     background: #3ba756;
     width: 140px;
     padding: 7px;
-    margin: 5px; 
+    margin: 8px; 
     cursor: pointer;
     text-transform: uppercase;
     color: whitesmoke;
@@ -41,7 +41,7 @@ button{
 }
 
 button:hover, button:focus, button:active{
-    box-shadow: 0 0 20px rgba(121, 134, 136, 0.671);
+    box-shadow: 0 0 20px rgba(20, 252, 89, 0.671);
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
